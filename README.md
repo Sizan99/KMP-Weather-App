@@ -1,6 +1,6 @@
 # Weather App 🌦️
 
-A cross-platform weather application built with **Kotlin Multiplatform (KMP)** and **Jetpack Compose Multiplatform (Compose for iOS and Android)**. It fetches real-time weather data using OpenWeather API, leveraging **Dependency Injection**, **Location Tracking**, and **State Management**.
+A cross-platform weather application built with **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (Compose for iOS and Android)**. It fetches real-time weather data using OpenWeather API, leveraging **Dependency Injection**, **Location Tracking**, and **State Management**.
 
 ---
 
