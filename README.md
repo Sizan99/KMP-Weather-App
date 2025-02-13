@@ -9,9 +9,9 @@ A cross-platform weather application built with **Kotlin Multiplatform (KMP)** a
 - 🌍 **Real-time Weather Data**: Fetches current weather conditions based on user location or searched city.
 - 📍 **GPS Location Support**: Uses `moko-geo` for fetching device location.
 - 🔍 **City Search**: Allows searching for weather by city name.
-- 🎨 **Modern UI**: Designed with Jetpack Compose for both Android & iOS.
+- 🎨 **Modern UI**: Designed with Compose Multiplatform for both Android & iOS.
 - 💾 **State Management**: Implements `StateFlow` for handling UI state.
-- 🔄 **Dependency Injection**: Uses Koin (or alternative DI frameworks) for managing dependencies.
+- 🔄 **Dependency Injection**: Uses Koin for managing dependencies.
 - 🌎 **Multiplatform Support**: Runs on Android and iOS with shared business logic.
 
 ---
@@ -20,8 +20,8 @@ A cross-platform weather application built with **Kotlin Multiplatform (KMP)** a
 
 | Category            | Technology |
 |--------------------|------------|
-| **Language**      | Kotlin (KMP) |
-| **Framework**     | Jetpack Compose Multiplatform |
+| **Language**      | Kotlin |
+| **Framework**     | Kotlin Multiplatform |
 | **State Management** | Kotlin StateFlow |
 | **Networking**    | Ktor Client |
 | **Dependency Injection** | Koin / Manual DI |
